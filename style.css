@@ -64,7 +64,8 @@
 .client-testimonials img {
   width: 44px;
   height: 44px;
-  border-radius: 50%;
+  border-radius: 0;
+  border: 2px solid #fff;
   margin-right: 12px;
 }
 
